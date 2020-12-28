@@ -1,0 +1,30 @@
+[Thu Nov 12 14:24:42 MST 2020] - INFO test.java.passoff.ServerTest: 	Setting up Persistence Test...
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Proxy: 	Clear called
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Post without Request Body called
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Attempting to open connection to server
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Connection opened to server
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Setting passoffrequest method to POST
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Request method set to POST
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Setting Do Output to true
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Do Output set to true
+[Thu Nov 12 14:24:42 MST 2020] - INFO client.Client: 	Connecting to server
+[Thu Nov 12 14:24:44 MST 2020] - INFO test.java.passoff.ServerTest: 	Setting up File Handler Default Test...
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Proxy: 	Clear called
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Post without Request Body called
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Attempting to open connection to server
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Connection opened to server
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Setting passoffrequest method to POST
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Request method set to POST
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Setting Do Output to true
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Do Output set to true
+[Thu Nov 12 14:24:44 MST 2020] - INFO client.Client: 	Connecting to server
+[Thu Nov 12 14:24:46 MST 2020] - INFO test.java.passoff.ServerTest: 	Setting up Realistic Fill Death Test...
+[Thu Nov 12 14:24:46 MST 2020] - INFO client.Proxy: 	Clear called
+[Thu Nov 12 14:24:46 MST 2020] - INFO client.Client: 	Post without Request Body called
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Attempting to open connection to server
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Connection opened to server
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Setting passoffrequest method to POST
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Request method set to POST
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Setting Do Output to true
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Do Output set to true
+[Thu Nov 12 14:24:47 MST 2020] - INFO client.Client: 	Connecting to server
